@@ -8,6 +8,10 @@ Basicly we have used these two table below to answer question and build dashboar
 orca_swaps.sql is our transformed table having higher abstraction and easily to use based on solana.transactions.
 https://github.com/soltx-protocol/sol-hackathon-dune-analytics/blob/main/orca_swaps.sql
 
+## Challeng Dashboard
+
+https://dune.com/c1mone_degen/Soltx
+
 ## Question
 
 ### Which wallet executed the first trade on Orca, what pool was it, and how much it for denominated in USDC?
